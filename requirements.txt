@@ -1,0 +1,6 @@
+openai
+chromadb
+streamlit
+python-dotenv
+pypdf
+tiktoken
